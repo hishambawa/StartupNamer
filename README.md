@@ -2,7 +2,7 @@
 
 A Flutter application that generates random names for startups, and allows users to save their favourite names.
 
-The application was developed as a part of a Google Codelabs tutorial for Flutter, which is available [here.] (https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0)
+The application was developed as a part of a Google Codelabs tutorial for Flutter, which is available [here](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0).
 
 ## Features
 
