@@ -1,16 +1,19 @@
-# startup_namer
+# Startup Namer
 
-A new Flutter project.
+A Flutter application that generates random names for startups, and allows users to save their favourite names.
 
-## Getting Started
+The application was developed as a part of a Google Codelabs tutorial for Flutter, which is available [here.] (https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+The application generates random names and lazy loads them in an infinity scroll view. More names will be generated and displayed as the user scrolls.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Initial](https://user-images.githubusercontent.com/69317107/168418362-182ff673-ce97-420a-84fb-96a307b8128f.PNG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The user can select a name to save it.
+
+![Like Suggestion](https://user-images.githubusercontent.com/69317107/168418366-b50fdcca-c353-445d-b0ec-ddccde6e7fad.PNG)
+
+The names that the user saved can be viewed in the Saved Suggestions page.
+
+![Saved Suggestions](https://user-images.githubusercontent.com/69317107/168418369-9dbfc050-8319-4a64-a3c0-dc7e69395c14.PNG)
